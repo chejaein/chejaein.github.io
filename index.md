@@ -5,5 +5,5 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
   
-<h1>Hello paper owl</h1>
+Hello paper owl
 <p>Goodnight paper crane</p>
